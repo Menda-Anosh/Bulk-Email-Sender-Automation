@@ -4,7 +4,6 @@ import pandas as pd
 import smtplib
 import os
 from email.message import EmailMessage
-
 # Global mode tracker
 is_dark_mode = False
 
